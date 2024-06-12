@@ -20,7 +20,7 @@ let package = Package(
    targets: [
       .binaryTarget(
          name: "Shared",
-         url: "https://drive.google.com/file/d/1iB05ALpUw6ZyuvFJvzLr3kyx7BjCUZV4/view?usp=drive_link",
+         url: "https://drive.google.com/file/d/1iB05ALpUw6ZyuvFJvzLr3kyx7BjCUZV4",
          checksum:"726a76fdc4a0085f878aa45b07b941bdd2421e5ababa9ca8a1e2c9aadaf20859")
    ]
 )
