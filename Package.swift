@@ -6,6 +6,7 @@
 //  Copyright © 2024 orgName. All rights reserved.
 //
 
+swift-tools-version:5.3
 import PackageDescription
 
 let package = Package(
