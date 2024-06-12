@@ -12,7 +12,7 @@ let package = Package(
    targets: [
       .binaryTarget(
          name: "Shared",
-         url: "https://drive.usercontent.google.com/u/0/uc?id=1iB05ALpUw6ZyuvFJvzLr3kyx7BjCUZV4&export=download",
+         url: "https://github.com/yulmaso/test/blob/main/Shared.xcframework.zip",
          checksum:"726a76fdc4a0085f878aa45b07b941bdd2421e5ababa9ca8a1e2c9aadaf20859")
    ]
 )
