@@ -1,12 +1,4 @@
-//
-//  Package.swift
-//  iosApp
-//
-//  Created by Aleksei Plotnikov on 12.06.2024.
-//  Copyright © 2024 orgName. All rights reserved.
-//
-
-swift-tools-version:5.3
+//swift-tools-version:5.3
 import PackageDescription
 
 let package = Package(
